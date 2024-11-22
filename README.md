@@ -1,2 +1,2 @@
-# homeworks-htmk
+# UNICOURSE - FRONTEND 
 Unicourse FRONTEND homeworks
