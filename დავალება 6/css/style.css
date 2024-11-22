@@ -1,0 +1,95 @@
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f0f0f0;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  color: #0066cc;
+  text-align: center;
+  margin-bottom: 5px;
+  border-bottom: none; 
+}
+
+.job-title {
+  color: #444;
+  text-align: center;
+  font-size: 1.2em;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #333;
+  padding-bottom: 5px;
+  margin-top: 20px;
+  border-bottom: none; 
+}
+
+.contact-info {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none; 
+}
+
+.education {
+  margin-bottom: 20px;
+}
+
+.school-name {
+  color: #0066cc;
+  font-weight: bold;
+}
+
+.graduation-date {
+  color: #cc3300;
+  font-style: italic;
+}
+
+.work-experience {
+  margin-bottom: 20px;
+}
+
+.job-position {
+  color: #0066cc;
+  font-weight: bold;
+}
+
+.company-name {
+  color: #555;
+}
+
+.work-date {
+  color: #cc3300;
+  font-style: italic;
+}
+
+.job-description {
+  margin-top: 10px;
+  line-height: 1.4;
+}
+
+/* Skills section */
+.skills {
+  margin-bottom: 20px;
+}
+
+.skill-category {
+  color: #0066cc;
+  font-weight: bold;
+}
+
+.skill-list {
+  color: #555;
+  margin-left: 5px;
+}
